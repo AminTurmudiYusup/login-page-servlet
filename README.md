@@ -31,6 +31,6 @@ the next step is copy login page from bootstrap template
 
 Succeed, Happy Learning and Happy Sharing!!!
 
-#HOW TO RUN
+# HOW TO RUN
 1. import project to intellij idea or other idea
 2. run using maven command = mvn jetty:run
